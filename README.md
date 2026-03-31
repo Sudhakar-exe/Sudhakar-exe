@@ -78,17 +78,6 @@ Capstone IoT system for **real-time biometric monitoring** with AI-assisted reco
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sudhakar-exe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudhakar-exe&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
-</div>
-
----
-
 ## 🏅 Achievements & Recognition
 
 | 🏆 | Achievement |
