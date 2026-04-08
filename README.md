@@ -69,7 +69,7 @@ A production-grade **SAST tool** that scans code and git diffs for vulnerabiliti
 ### 🏥 AI Health Monitoring System
 > Raspberry Pi · Arduino · Flask · Anthropic API · SQLite
 
-Capstone IoT system for **real-time biometric monitoring** with AI-assisted recovery analysis.
+IoT system for **real-time biometric monitoring** with AI-assisted recovery analysis.
 
 - LM35 temperature + MAX30102 heart rate / SpO₂ sensors
 - Live **Flask dashboard** with Chart.js visualizations
