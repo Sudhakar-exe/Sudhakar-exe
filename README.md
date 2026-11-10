@@ -1,105 +1,78 @@
-<div align="center">
+# Hi, I'm Sudhakar Chaulagain
 
-<!-- Dynamic typing header -->
-<a href="https://github.com/Sudhakar-exe">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Sudhakar+%F0%9F%91%8B;Security+%2B+Software+Engineer;CTF+Competitor+%7C+Builder+%7C+Hacker" alt="Typing SVG" />
-</a>
+**Computer Science student | Software developer | Cybersecurity enthusiast**
 
-<br/>
+I build useful software and explore how to make it more secure, from web applications and static analysis tools to embedded systems. Originally from Nepal, I'm studying at **Southeastern Louisiana University** in Hammond, Louisiana.
 
-<!-- Badges row -->
-<img src="https://img.shields.io/badge/Cybersecurity-00D9FF?style=for-the-badge&logo=hackthebox&logoColor=black" />
-<img src="https://img.shields.io/badge/Software_Engineering-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/GPA_3.86-22C55E?style=for-the-badge&logo=academia&logoColor=white" />
-
-</div>
+[Portfolio](https://sudhakarchaulagain.com.np) · [LinkedIn](https://linkedin.com/in/sudhakarchaulagain) · [Email](mailto:sudhakarchaulagain@gmail.com)
 
 ---
 
-## 🧑‍💻 About Me
+## About me
 
-CS Junior @ **Southeastern Louisiana University** · Expected May 2027  
-Focused on **cybersecurity** and **software development**, with hands-on experience building security tools, embedded systems, and full-stack apps.
+- **B.S. Computer Science, Mathematics minor** — expected December 2027 · GPA **3.88/4.00**
+- **Software Developer**, SLU Center for Environmental Research — building accessible water-quality dashboards for the Lake Maurepas Monitoring Program.
+- **Praxis Examination Tutor** at SLU; previously tutored mathematics and taught robotics and IoT in Nepal.
+- **Secretary**, Association of Applied Cybersecurity — learning and building alongside our campus security community.
+- Interested in **software engineering and cybersecurity internships**, especially work involving secure applications, security automation, and practical problem-solving.
 
-- 🏆 **11th / 96 teams nationally** — DOE Cyberforce Competition
-- 🥇 **1st Place** — Tulane / Operation Spark Cyber Challenge
-- 🔬 Currently building: **AI-powered SAST tooling** & secure cloud-native apps
-- 🌏 From Nepal 🇳🇵 — team name **8848.86** (you'll get it)
-- 📫 Open to **Security / SWE internships & new grad roles**
+## Selected work
 
----
+### [AI DevSec Platform](https://github.com/Sudhakar-exe/ai-devsec-platform)
+**Python · FastAPI · Pytest**
 
-## 🛠️ Tech Stack
+Built a static security scanner to help developers review AI-generated code. It analyzes code snippets and Git diffs using **10 detectors**, produces severity-based findings and HTML reports, and includes **42 automated tests**. Presented at **LSU Discovery Day in April 2026**.
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+### StudyPal — Hackathon project
+**React · TypeScript · Python · Flask · PostgreSQL · Gemini API**
 
-**Frameworks & Tools**  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+Co-built an AI-powered study app with teammates at SLU's hackathon. StudyPal turns uploaded PDF, Word, and PowerPoint notes into diagnostic quizzes, identifies knowledge gaps, and generates targeted study material. Contributed the **Knowledge Dungeon quiz game and flashcard system** to make studying more interactive.
 
-**Hardware & Embedded**  
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+### Lake Maurepas Water-Quality Dashboards
+**SvelteKit · Data visualization · Accessibility**
 
----
+Developed interactive dashboards that make environmental monitoring data easier to explore. Implemented keyboard navigation and visible focus indicators, and collaborated with research staff and Web Services on deployment and options for monthly data updates.
 
-## 🚀 Featured Projects
+### SmartPOS — In progress
+**C# · .NET**
 
-### 🔐 [AI DevSec Platform](https://github.com/Sudhakar-exe/ai-devsec-platform)
-> Python · FastAPI · Static Analysis · Security Automation
+Building a point-of-sale and business management platform with two teammates for small retail and convenience stores. Our initial focus is a reliable core POS and a clear, usable interface, with AI/ML optimization planned for later stages.
 
-A production-grade **SAST tool** that scans code and git diffs for vulnerabilities in real time.
+### Task & Time Management Web App
+**C# · .NET · React · TypeScript**
 
-- **10 regex-based detectors** — SQL injection, secrets leakage, path traversal, weak crypto, deserialization, and more
-- **42 automated tests** with full CI coverage
-- Standalone HTML frontend with **color-coded risk scoring**
-- Designed for developer-first security feedback loops
+Led a **four-member Agile team** to deliver a platform for organizing tasks and tracking time. Coordinated sprints and code reviews, and implemented **JWT authentication and role-based access** to protect user workflows.
 
----
+### AI Health Monitoring System
+**Raspberry Pi · Arduino · Python · Flask · SQLite · Anthropic API**
 
-### 🏥 AI Health Monitoring System
-> Raspberry Pi · Arduino · Flask · Anthropic API · SQLite
+Connected LM35 and MAX30102 sensors to a working monitoring prototype with a live dashboard, stored reading history, and AI-generated summaries—bringing sensor readings, recording, and review into one system.
 
-IoT system for **real-time biometric monitoring** with AI-assisted recovery analysis.
+### Paobucks
+**Kotlin · Android Studio**
 
-- LM35 temperature + MAX30102 heart rate / SpO₂ sensors
-- Live **Flask dashboard** with Chart.js visualizations
-- **Anthropic API** integration for intelligent health insights
-- SQLite logging + I2C LCD display
+Built an Android coffee-ordering app with drink browsing, size and add-on customization, cart management, and automatic price calculation.
 
----
+## Security experience & achievements
 
-## 🏅 Achievements & Recognition
+| Experience | Highlights |
+| :--- | :--- |
+| **DOE CyberForce** · 2024–2025 | Contributed to an **11th-place national team finish**; defended live industrial control systems, investigated network traffic, hardened services, and documented findings. |
+| **CyberAuto Challenge** · 2026 | Assessed production Ford vehicle security alongside industry engineers; examined API traffic with Burp Suite and key-fob radio signals with HackRF One. |
+| **Tulane / Operation Spark Cyber Challenge** | **1st place in 2025**, **runner-up in 2024**; team challenges spanning HMI security, cryptography, network analysis, and web exploitation. |
+| **Aviation ISAC / Embry-Riddle Challenge** · 2024 | Hands-on challenges in aviation systems, CTFs, physical security, and drone security. |
+| **Academic recognition** | President's List, multiple semesters · Honors Scholarship, two semesters · Upsilon Pi Epsilon · SLU Integration Bee runner-up |
 
-| 🏆 | Achievement |
-|----|-------------|
-| 🥇 | **1st Place** — Tulane / Operation Spark Cyber Challenge |
-| 🌐 | **Top 11.5% nationally** — DOE Cyberforce Competition (11/96 teams) |
-| 🥈 | **Runner Up** — Integration Bee - SLU Math Department |
-| 📘 | **UPE Honor Society** Member |
-| 🎓 | **President's List** — Southeastern Louisiana University |
+## Tools I work with
+
+| Area | Technologies |
+| :--- | :--- |
+| **Languages** | Python, C#, C/C++, JavaScript, TypeScript, Kotlin, SQL |
+| **Web & APIs** | .NET, FastAPI, Flask, React, SvelteKit |
+| **Security** | Wireshark, Nmap, Burp Suite, HackRF One |
+| **Development** | Linux, Git/GitHub, Docker, Pytest |
+| **Embedded & data** | Raspberry Pi, Arduino, SQLite |
 
 ---
 
-## 📬 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sudhakarchaulagain)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sudhakar-exe)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudhakarchaulagain@gmail.com)
-
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sudhakar-exe&style=flat-square&color=00D9FF" alt="Profile views" />
-</div>
+Always happy to connect with people building software, solving security challenges, or learning something new.
